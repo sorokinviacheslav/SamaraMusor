@@ -2,5 +2,8 @@
 <persistence xmlns="http://java.sun.com/xml/ns/persistence" version="2.0">
     <persistence-unit name="SamaraMusor" transaction-type="RESOURCE_LOCAL">
 
+        <class>com.company.samaramusor.entity.Street</class>
+        <class>com.company.samaramusor.entity.Organization</class>
+        <class>com.company.samaramusor.entity.Contract</class>
     </persistence-unit>
 </persistence>
