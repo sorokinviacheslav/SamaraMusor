@@ -3,5 +3,6 @@
     <menu id="application-samaramusor" insertBefore="administration">
         <item screen="samaramusor_Organization.browse"/>
         <item screen="samaramusor_Contract.browse"/>
+        <item screen="samaramusor_Street.browse"/>
     </menu>
 </menu-config>
