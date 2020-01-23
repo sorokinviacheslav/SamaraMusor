@@ -16,6 +16,8 @@
         <form id="form" dataContainer="contractDc">
             <column width="250px">
                 <textField id="paymentStatusField" property="paymentStatus"/>
+                <dateField id="startDateField" property="startDate"/>
+                <dateField id="endDateField" property="endDate"/>
             </column>
         </form>
         <hbox id="editActions" spacing="true">

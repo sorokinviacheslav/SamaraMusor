@@ -33,6 +33,8 @@
             </actions>
             <columns>
                 <column id="paymentStatus"/>
+                <column id="startDate"/>
+                <column id="endDate"/>
             </columns>
             <rowsCount/>
             <buttonsPanel id="buttonsPanel"
