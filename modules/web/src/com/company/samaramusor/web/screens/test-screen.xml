@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<window xmlns="http://schemas.haulmont.com/cuba/screen/window.xsd"
+        caption="msg://caption"
+        messagesPack="com.company.samaramusor.web.screens">
+    <layout>
+        <textField id="textInsert"/>
+        <textField id="text1" editable="false"/>
+        <textField id="text2" editable="false"/>
+        <button id="buttonTest" caption="Download"/>
+    </layout>
+</window>

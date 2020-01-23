@@ -4,5 +4,6 @@
         <item screen="samaramusor_Organization.browse"/>
         <item screen="samaramusor_Contract.browse"/>
         <item screen="samaramusor_Street.browse"/>
+        <item screen="samaramusor_TestScreen"/>
     </menu>
 </menu-config>
